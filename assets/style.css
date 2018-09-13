@@ -1,0 +1,61 @@
+html, body {
+    height: 100%;
+}
+
+.bg{
+    background-image: url("../assets/images/background.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#header{
+    padding: 20px 0px;
+    background-color: orange;
+    color: white;
+    width: 20%;
+    left: -185px;
+}
+
+.rules{
+    padding: 0px 0px 20px 0px;
+    background-color: white;
+    color: black;
+    width: 33%;
+    left: -185px;
+}
+
+.goal{
+    padding: 20px 0px;
+    background-color: green;
+    color: black;
+    width: 100px;
+    margin: 10px;
+    left: -185px;
+}
+
+.score{
+    padding: 20px 0px;
+    background-color: blue;
+    color: black;
+    width: 50px;
+    margin: 10px;
+    left: -185px;
+}
+
+.points{
+    padding: 5px 0px;
+    background-color: green;
+    color: black;
+    margin: 10px;
+    left: -185px;
+}
+
+.scoreCounter{
+    font-size: 50px;
+}
+
+.img{
+    left: -185px;
+}
